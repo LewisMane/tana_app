@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d789b0d9-55e3-4288-b2e2-6f32086fb9fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tana_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CC_dams.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CC_ws.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/adb_sewerage.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/adb_water.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/bh_drill_1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/bq_1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/uhc_1.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/compiled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
