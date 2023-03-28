@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "CC_dams",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "18", "NAME": "Ura 4 Phase II Earth Dam Meru County Igembe Central", "SCOPE": "Construction of concrete lining on the dam wall", "POPULATION": "4000", "PROGRESS %": "35", "LAT": "-0.22098", "LONG": "37.894925", "COLOR": "brown" }, "geometry": { "type": "Point", "coordinates": [ 37.894925, -0.22098 ] } },
+{ "type": "Feature", "properties": { "ID": "20", "NAME": "Construction of Thambo in Meru and Tharaka Nithi Counties", "SCOPE": "Preparation of Final Design and Construction of 650,000 m3 capacity Earth fill Dam", "POPULATION": "70000", "PROGRESS %": "3", "LAT": "-0.226918", "LONG": "37.577013", "COLOR": "brown" }, "geometry": { "type": "Point", "coordinates": [ 37.577013, -0.226918 ] } },
+{ "type": "Feature", "properties": { "ID": "21", "NAME": "Construction of Kanjogu Dam - Tharaka Nithi County - Maara", "SCOPE": "Preparation of Final Design and Construction of 1,200,000 m3 capacity Earthfill Dam", "POPULATION": "110000", "PROGRESS %": "2", "LAT": "-0.18684", "LONG": "37.564888", "COLOR": "brown" }, "geometry": { "type": "Point", "coordinates": [ 37.564888, -0.18684 ] } },
+{ "type": "Feature", "properties": { "ID": "27", "NAME": "Njarune Earth dam in Meru County Igembe North Sub County", "SCOPE": "Construction of Earth dam-40,000 m3 capacity", "POPULATION": "1000 people 30,000 livestock", "PROGRESS %": "100", "LAT": "-0.45627", "LONG": "37.8403", "COLOR": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.8403, -0.45627 ] } },
+{ "type": "Feature", "properties": { "ID": "28", "NAME": "Nginyo Earth dam in Meru County, Igembe North Sub County", "SCOPE": "Construction of Earth dam of 25,000 m3 storage capacity", "POPULATION": "1800 people 20,000 livestock", "PROGRESS %": "100", "LAT": "0.46575", "LONG": "37.99649", "COLOR": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.99649, 0.46575 ] } },
+{ "type": "Feature", "properties": { "ID": "30", "NAME": "Thimangiri Earth Dam � Meru County � Imenti North Sub County", "SCOPE": "Construction of Earth Dam - 20,000 m3", "POPULATION": "1000", "PROGRESS %": "100", "LAT": "-0.0396", "LONG": "37.72346", "COLOR": "blue" }, "geometry": { "type": "Point", "coordinates": [ 37.72346, -0.0396 ] } },
+{ "type": "Feature", "properties": { "ID": "45", "NAME": "Thangatha Dam Spillway", "SCOPE": "Rehabilitation of spillway", "POPULATION": "1250", "PROGRESS %": "100", "LAT": "0.190604", "LONG": "37.872764", "COLOR": "brown" }, "geometry": { "type": "Point", "coordinates": [ 37.872764, 0.190604 ] } }
+]
+}
