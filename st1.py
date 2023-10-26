@@ -24,6 +24,6 @@ st.write("""
 *Select an option in the select box below to view your desired WSP*
 """)
 
-HtmlFile = open("./maps/new map.html", 'r')
+HtmlFile = open("./maps/new_map1.html", 'r')
 Tana_map = HtmlFile.read()
 components.html(Tana_map, height=700)
