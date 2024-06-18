@@ -49,6 +49,12 @@ Crosscounty Water Supply
 </span>=
 <span style='color:brown;'>
 Borehole Equipping
+</span><br>
+<span style='color:blue;'>
+. Complete_BH 
+</span>=
+<span style='color:brown;'>
+Complete BoreHole Projects
 </span>
 
 """,
